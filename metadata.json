@@ -1,0 +1,6 @@
+{
+  "name": "Body Metrics Tracker",
+  "description": "一款結合 Google Sheets 與 Google Drive 做為後端資料庫的身體素質紀錄與卡路里流水帳分析系統，支援 BMR 與 TDEE 計算、體重趨勢分析及進度備份。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
